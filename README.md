@@ -38,7 +38,7 @@
 
 **Congiguring ngrok**
 
-GitHub’s webhook requires a publicly reachable URL. since we installed Jekins locally we would meed a publicly accessible ip or dns.
+GitHub’s webhook requires a publicly reachable URL. since we installed Jekins locally we would need a publicly accessible ip or dns.
 For this we would use the toool ngrok.
 
 Install ngrok (if not installed):
